@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Codility
 {
-	class Program
-	{
-		static void Main(string[] args)
-		{
-		}
-	}
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine(BinaryGap.GetBinaryGap(12312));
+        }
+    }
 }

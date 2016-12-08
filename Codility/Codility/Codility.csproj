@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CDFE8738-BD7B-4261-9F79-8384CC8CD21C}</ProjectGuid>
+    <ProjectGuid>{00DA2EAF-DA08-41DA-9AD7-DBAF49DFECFE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Codility</RootNamespace>

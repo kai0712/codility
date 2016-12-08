@@ -8,12 +8,13 @@ using System.Threading.Tasks;
 
 namespace Codility.Tests
 {
-	public class BinaryGapTests
-	{
-		[Fact()]
-		public void GetBinaryGapTest()
-		{
-			throw new NotImplementedException();
-		}
-	}
+
+    public class BinaryGapTests
+    {
+        [Fact]
+        public void GetBinaryGapTest()
+        {
+            
+        }
+    }
 }
