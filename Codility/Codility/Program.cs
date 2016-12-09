@@ -14,6 +14,9 @@ namespace Codility
             int[] a = { 1, 2, 3, 4, 5, 6, 7 };
             a = CyclicRotation.CyclicRotationArray(a, 7);
             Console.WriteLine(CyclicRotation.ArrToStr(a));
+	        FrogJmp.Solution(10, 85, 30);
+			int[] b = { 2, 8, 3, 4, 5, 6, 7 };
+	        PermMissingElem.Solution(b, 8);
         }
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Codility
 {
-    public class CyclicRotation
+    public static class CyclicRotation
     {
         public static T[] CyclicRotationArray<T>(T[] array, int count) where T : IComparable
         {
